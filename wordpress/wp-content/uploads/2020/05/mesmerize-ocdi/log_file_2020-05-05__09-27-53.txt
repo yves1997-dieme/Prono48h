@@ -1,0 +1,14 @@
+
+---Downloaded files---
+The import files for: Agency were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://workshop48h-equipe4.ydayslyon.fr/wordpress
+Data file = /var/www/html/wordpress/wp-content/uploads/2020/05/mesmerize-ocdi/demo-content-import-file_2020-05-05__09-27-53.xml
+Widget file = /var/www/html/wordpress/wp-content/uploads/2020/05/mesmerize-ocdi/demo-widgets-import-file_2020-05-05__09-27-53.json
+Customizer file = /var/www/html/wordpress/wp-content/uploads/2020/05/mesmerize-ocdi/demo-customizer-import-file_2020-05-05__09-27-53.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_content_import---
+
